@@ -11,6 +11,30 @@
     {
       "title": "Melissa Europe size guide — Adult",
       "path": "https://eu.shopmelissa.com/en-mt/pages/size-guide"
+    },
+    {
+      "title": "Havaianas style and size guide — Women and Men",
+      "path": "https://www.havaianas.com/pages/style-guide"
+    },
+    {
+      "name": "havaianas-adult-size-chart",
+      "path": "data/havaianas-adult-size-chart.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          { "name": "audience", "type": "string" },
+          { "name": "us_display_size", "type": "string" },
+          { "name": "fits_us_size", "type": "string" },
+          { "name": "length_min_in", "type": "number" },
+          { "name": "length_max_in", "type": "number" },
+          { "name": "br_size", "type": "string" },
+          { "name": "brand", "type": "string" },
+          { "name": "market", "type": "string" },
+          { "name": "source_url", "type": "string" },
+          { "name": "source_checked", "type": "date" }
+        ]
+      }
     }
   ],
   "resources": [

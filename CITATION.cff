@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Brazilian Footwear Size Data: Melissa Adult Size Chart"
+title: "Brazilian Footwear Size Data: Melissa and Havaianas Adult Size Charts"
 type: dataset
 authors:
   - name: "PRAYA Editorial"
@@ -8,5 +8,5 @@ version: "2026.09.22"
 date-released: 2026-09-22
 url: "https://github.com/asafichaki/brazilian-footwear-size-data"
 repository-code: "https://github.com/asafichaki/brazilian-footwear-size-data"
-abstract: "A source-linked transcription of the Melissa Europe adult size chart, with provenance and limitations."
+abstract: "Source-linked transcriptions of separate Melissa Europe and Havaianas adult size charts, with provenance and limitations."
 license: CC-BY-4.0
