@@ -1,6 +1,6 @@
 # Brazilian footwear size data
 
-Machine-readable, source-linked size reference data for Brazilian footwear brands, maintained by [PRAYA](https://www.praya.co.il/) for shoppers and researchers.
+Machine-readable, source-linked size reference data for Brazilian footwear brands, maintained by [PRAYA](https://www.praya.co.il/) for shoppers and researchers. The canonical dataset page, including direct CSV and JSON downloads, is available at [PRAYA Data](https://www.praya.co.il/data/midot-naalaim-brazilaiot).
 
 The first release contains the adult Melissa Europe size chart as checked on 2026-09-09. It maps foot length in centimetres to the EU and Brazilian (BR) labels published by the manufacturer.
 
@@ -30,7 +30,7 @@ Values were transcribed without interpolating unpublished half sizes. Paired siz
 
 ## בעברית
 
-המאגר מרכז נתוני מידות של מותגי הנעלה ברזילאיים בפורמט פתוח וקריא למכונה. הגרסה הראשונה כוללת את טבלת המבוגרות והמבוגרים של Melissa Europe, עם קישור למקור, מועד בדיקה ומגבלות שימוש. להסבר מלא בעברית: [טבלת מידות Melissa באתר PRAYA](https://www.praya.co.il/madrich/midot-brazilaiot).
+המאגר מרכז נתוני מידות של מותגי הנעלה ברזילאיים בפורמט פתוח וקריא למכונה. הגרסה הראשונה כוללת את טבלת המבוגרות והמבוגרים של Melissa Europe, עם קישור למקור, מועד בדיקה ומגבלות שימוש. [עמוד המאגר הרשמי והורדות CSV/JSON](https://www.praya.co.il/data/midot-naalaim-brazilaiot) זמינים באתר PRAYA, לצד [הסבר המידות המלא בעברית](https://www.praya.co.il/madrich/midot-brazilaiot).
 
 ## License
 

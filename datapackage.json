@@ -3,7 +3,7 @@
   "title": "Brazilian Footwear Size Data",
   "description": "Source-linked, machine-readable size reference data for Brazilian footwear brands.",
   "version": "2026.09.22",
-  "homepage": "https://www.praya.co.il/madrich/midot-brazilaiot",
+  "homepage": "https://www.praya.co.il/data/midot-naalaim-brazilaiot",
   "licenses": [
     { "name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/" }
   ],
