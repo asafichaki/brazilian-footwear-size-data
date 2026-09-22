@@ -1,0 +1,29 @@
+{
+  "name": "Melissa Europe adult size chart",
+  "publisher": "PRAYA Editorial",
+  "publisher_url": "https://www.praya.co.il/",
+  "canonical_explanation": "https://www.praya.co.il/madrich/midot-brazilaiot",
+  "source": {
+    "publisher": "Melissa Europe",
+    "url": "https://eu.shopmelissa.com/en-mt/pages/size-guide",
+    "checked": "2026-09-09",
+    "table": "Adult"
+  },
+  "limitations": [
+    "Manufacturer chart transcription; not an independent insole measurement.",
+    "Not a fit guarantee.",
+    "Not applicable to Havaianas, Ipanema or other brands.",
+    "Model-specific instructions take precedence."
+  ],
+  "rows": [
+    { "foot_length_cm": 22, "eu_size": "35-36", "br_size": "33-34" },
+    { "foot_length_cm": 23, "eu_size": "37", "br_size": "35" },
+    { "foot_length_cm": 24, "eu_size": "38", "br_size": "36" },
+    { "foot_length_cm": 24.5, "eu_size": "39", "br_size": "37" },
+    { "foot_length_cm": 25.5, "eu_size": "40", "br_size": "38" },
+    { "foot_length_cm": 26.5, "eu_size": "41-42", "br_size": "39-40" },
+    { "foot_length_cm": 27, "eu_size": "43", "br_size": "41" },
+    { "foot_length_cm": 28, "eu_size": "44", "br_size": "42" },
+    { "foot_length_cm": 29, "eu_size": "45-46", "br_size": "43-44" }
+  ]
+}

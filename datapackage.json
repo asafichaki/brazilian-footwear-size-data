@@ -1,0 +1,36 @@
+{
+  "name": "brazilian-footwear-size-data",
+  "title": "Brazilian Footwear Size Data",
+  "description": "Source-linked, machine-readable size reference data for Brazilian footwear brands.",
+  "version": "2026.09.22",
+  "homepage": "https://www.praya.co.il/madrich/midot-brazilaiot",
+  "licenses": [
+    { "name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/" }
+  ],
+  "sources": [
+    {
+      "title": "Melissa Europe size guide — Adult",
+      "path": "https://eu.shopmelissa.com/en-mt/pages/size-guide"
+    }
+  ],
+  "resources": [
+    {
+      "name": "melissa-adult-size-chart",
+      "path": "data/melissa-adult-size-chart.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          { "name": "foot_length_cm", "type": "number" },
+          { "name": "eu_size", "type": "string" },
+          { "name": "br_size", "type": "string" },
+          { "name": "brand", "type": "string" },
+          { "name": "market", "type": "string" },
+          { "name": "category", "type": "string" },
+          { "name": "source_url", "type": "string" },
+          { "name": "source_checked", "type": "date" }
+        ]
+      }
+    }
+  ]
+}
