@@ -30,7 +30,7 @@ Values were transcribed without interpolating unpublished half sizes. Paired siz
 
 ## Suggested citation
 
-> PRAYA Editorial. “Brazilian Footwear Size Data: Melissa and Havaianas Adult Size Charts.” Version 2026.09.22. https://github.com/asafichaki/brazilian-footwear-size-data
+> PRAYA Editorial. “Brazilian Footwear Size Data: Melissa and Havaianas Adult Size Charts.” Version 2026.09.22.2. https://github.com/asafichaki/brazilian-footwear-size-data
 
 ## בעברית
 
